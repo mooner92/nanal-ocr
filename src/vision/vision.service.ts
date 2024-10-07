@@ -137,5 +137,11 @@ export class VisionService {
 }
 
 
-
-//'[{"intent": "유토펜세미정(내복) 복용", "tablets": 1, "times": 3, "days": 3}, {"intent": "알피레바이피드정 복용", "tablets": 0.5, "times": 3, "days": 3}, {"intent": "아로베스트정(내복) 복용", "tablets": 1, "times": 3, "days": 3}, {"intent": "소론도정(내복)(비급여) 복용", "tablets": 0.5, "times": 3, "days": 3}, {"intent": "알피올로파타딘정 복용", "tablets": 1, "times": 2, "days": 3}, {"intent": "일양바이오아세틸시스터인캡슐200mg 복용", "tablets": 1, "times": 3, "days": 3}, {"intent": "로벨리토정 150/10mg 복용", "tablets": 1, "times": 1, "days": 30}]'
+// 출력 Good
+// '[{"intent": "유토펜세미정(내복) 복용", "tablets": 1, "times": 3, "days": 3}, 
+// {"intent": "알피레바이피드정 복용", "tablets": 0.5, "times": 3, "days": 3}, 
+// {"intent": "아로베스트정(내복) 복용", "tablets": 1, "times": 3, "days": 3}, 
+// {"intent": "소론도정(내복)(비급여) 복용", "tablets": 0.5, "times": 3, "days": 3}, 
+// {"intent": "알피올로파타딘정 복용", "tablets": 1, "times": 2, "days": 3}, 
+// {"intent": "일양바이오아세틸시스터인캡슐200mg 복용", "tablets": 1, "times": 3, "days": 3}, 
+// {"intent": "로벨리토정 150/10mg 복용", "tablets": 1, "times": 1, "days": 30}]'
